@@ -6,7 +6,7 @@ name                     : &name "Axel Norgren"
 description              : &description "PhD Student in Economics at Linköping University"
 url                      : # your GitHub Pages URL, e.g. https://axelnorgren.github.io
 baseurl                  : ""
-repository               : "your-username/your-username.github.io"
+repository               : "AxelNor/AxelNorgren.github.io"
 
 # Site Author
 author:
