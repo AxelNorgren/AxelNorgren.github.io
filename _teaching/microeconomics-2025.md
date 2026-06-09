@@ -1,4 +1,4 @@
---
+---
 title: "Microeconomics"
 collection: teaching
 type: "Undergraduate course"
