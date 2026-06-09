@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at [Linköping University](https://liu.se/en), based at the [Institute for Analytical Sociology (IAS)](https://liu.se/en/organisation/liu/iei/ias) in Norrköping. I am also an affiliated researcher at the [Center of Educational Leadership and Excellence (CELE)](https://www.hhs.se/en/research/institutes/siir/cele/) at the Stockholm School of Economics, where my main supervisor is Professor Karl Wennberg.
+I am a PhD student in Economics at [Linköping University](https://liu.se/en), based at the [Institute for Analytical Sociology (IAS)](https://liu.se/en/organisation/liu/iei/ias) in Norrköping. I am also an affiliated researcher at the [Center of Educational Leadership and Excellence (CELE)](https://www.hhs.se/sv/forskning/center/cele/) at the Stockholm School of Economics, where my main supervisor is Professor Karl Wennberg.
 
 My research sits at the intersection of **economics of education** and **teacher economics**. I study how schools, teachers, and policies shape student and teacher outcomes — with a particular focus on the Swedish context and using administrative register data.
 
