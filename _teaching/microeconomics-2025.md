@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Linköping, Sweden"
 ---
 
-Undergraduate course in microeconomics at Linköping University, autumn 2025. The course covers core microeconomic theory with a focus on market structure and international trade.
+Undergraduate course in microeconomics at Linköping University, autumn 2025 and will again in autumn 2026. The course covers core microeconomic theory with a focus on market structure and international trade.
 
 ## Responsibilities
 
