@@ -9,8 +9,10 @@ author_profile: true
 
 **Effect of Student Teaching Placements on Teacher Career Development**  
 Axel Norgren  
-I study how the placement of student teachers affects their probability of completing teacher education, obtaining a job post-graduation, and the type of school they begin their career in.
+This project studies how the placement of student teachers affects their probability of completing teacher education, obtaining employment post-graduation, and the type of school they begin their career in. Using Swedish administrative registers, I explore whether placement schools shape both selection into and outcomes within the teaching profession.
 
+**Deciphering the Reading Puzzle: Teacher Value Added across Reading Subskills**  
+This project disentangles teacher contributions to different components of reading ability. Using student-level data from the Swedish educational technology platform LegiLexi, I apply value-added models to estimate teacher effectiveness for overall reading comprehension as well as its subcomponents — decoding, vocabulary, and listening comprehension. The findings reveal that teachers are substantially more consequential for decoding abilities than for language comprehension, and that teachers who are effective at improving decoding are largely distinct from those who improve vocabulary and listening.
 
 
 ## Published
