@@ -4,7 +4,7 @@ title                    : "Axel Norgren"
 title_separator          : "-"
 name                     : &name "Axel Norgren"
 description              : &description "PhD Student in Economics at Linköping University"
-url                      : # your GitHub Pages URL, e.g. https://axelnorgren.github.io
+url                      : "https://axelnorgren.github.io"
 baseurl                  : ""
 repository               : "AxelNorgren/AxelNorgren.github.io"
 
