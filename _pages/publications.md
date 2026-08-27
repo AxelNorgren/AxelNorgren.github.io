@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Effect of Student Teaching Placements on Teacher Career Development**  
+**Hidden Costs of Teaching? The Effect of Student Teaching Placements on Teacher Career Development**  
 Axel Norgren  
 This project studies how the placement of student teachers affects their probability of completing teacher education, obtaining employment post-graduation, and the type of school they begin their career in. Using Swedish administrative registers, I explore whether placement schools shape both selection into and outcomes within the teaching profession.
 
