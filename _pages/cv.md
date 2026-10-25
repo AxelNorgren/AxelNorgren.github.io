@@ -71,7 +71,7 @@ Co-supervising a master thesis in Computational Social Science.
 ---
 
 ## Awards & Grants
-
+- **IFAU Reseach Grant** (2025, PI: Ali Ahmed)
 - **Siamon Foundation Scholarship** — Conference travel *(2025 & 2026)*
 - **Ratio Scholarship for Young Researchers** — Conference travel *(2025)*
 - **Faculty Travel Grant** — Research visit to LSE *(2025)*
@@ -80,7 +80,7 @@ Co-supervising a master thesis in Computational Social Science.
 ---
 
 ## Selected Presentations
-
+- EALE Barcelona 2026
 - EDUCA Flagship Workshop *(Summer 2026)*
 - Meeting of the Economics of Education Association (AEDE) *(Summer 2025)*
 - Stockholm-Uppsala Workshop in Economics of Education, Stockholm School of Economics *(Spring 2024)*
